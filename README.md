@@ -1,7 +1,9 @@
 # 👋 Hello, I'm SHOURYA DHATRIKA
 
 🚀 Aspiring Full Stack Developer | 💻 DSA Enthusiast | 🌱 Lifelong Learner  
-📍 Hyderabad, India | 🧑‍💻 Developer Program Member
+       📍 Hyderabad, India | 🧑‍💻 Developer Program Member
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;DSA+and+Open+Source+Learner;Learning+HTML%2C+CSS%2C+JavaScript+%26+PHP)
 
 ---
 
