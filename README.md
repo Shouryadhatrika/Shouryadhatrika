@@ -4,37 +4,39 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Aspiring+Full+Stack+Developer;DSA+%26+Open+Source+Learner;Learning+HTML%2C+CSS%2C+JS+%26+PHP" alt="Typing SVG" />
 </p>
 
+🚀 Full Stack Developer in Progress | 💻 DSA Enthusiast | 🎯 Focused Learner
+
 ---
 
 ## 🔍 About Me
 
 🎓 3rd-year B.Tech CSE (Data Science) student at **Sreyas Institute of Engineering and Technology**  
-💡 Passionate about building real-world applications using web technologies  
-🌱 Currently exploring **Full Stack Web Development**, **DSA**, and **Open Source Contributions**  
-💬 Always excited to learn, collaborate, and contribute to impactful tech solutions
+💡 Interested in building scalable web solutions and solving real-world problems  
+🌱 Currently exploring **Front-End (HTML, CSS, JavaScript)** and **Back-End (PHP, MySQL)**  
+💬 Passionate about open source, collaboration, and technical innovation
 
 ---
 
 ## 📚 Academic & Personal Projects
 
 - **🌿 AgroFarms – Smart Agricultural Platform**  
-  A full-stack web platform using HTML, CSS, JS, and PHP that connects farmers directly with consumers for transparent transactions.
+  Full-stack system using HTML, CSS, JavaScript, and PHP that connects farmers and consumers for real-time produce exchange.
 
-- **📘 Smart Interview DSA Solutions**  
-  A Python-based collection of solutions from the Smart Interviews Primary track to strengthen Data Structures & Algorithms understanding.
+- **📘 Smart Interview Primary DSA**  
+  Python-based solutions for common Data Structures and Algorithms problems via Smart Interviews.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
-- Python · HTML · CSS · JavaScript · PHP · SQL
+HTML · CSS · JavaScript · Python · SQL · PHP
 
 ### ⚙️ Frameworks & Libraries
-- Bootstrap · jQuery *(learning)*
+Bootstrap · jQuery *(learning phase)*
 
 ### 🧰 Developer Tools
-- VS Code · Git · GitHub · XAMPP · Notion
+VS Code · Git · GitHub · XAMPP · Notion
 
 ---
 
@@ -49,11 +51,11 @@
 ## 📌 Pinned Repositories
 
 - [`Smart_interview_primary`](https://github.com/Shouryadhatrika/Smart_interview_primary)  
-  DSA problems and Python solutions from the Smart Interviews Primary course.
+  DSA problems and solutions in Python to prepare for interviews and competitive coding.
 
 - [`ARGO_FARMS`](https://github.com/Shouryadhatrika/ARGO_FARMS)  
-  Full-stack agricultural platform enabling real-time direct interaction between farmers and buyers.
+  Web app to connect farmers and buyers with live product listings and direct communication.
 
 ---
 
-📈 **115+ contributions** in the last year — continuously learning, building, and contributing!
+📈 **115 contributions** in the past year — actively learning, building, and growing!
