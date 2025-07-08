@@ -1,60 +1,59 @@
-# 👋 Hello, I'm SHOURYA DHATRIKA
+# 👋 Hi there, I'm SHOURYA DHATRIKA
 
-🚀 Aspiring Full Stack Developer | 💻 DSA Enthusiast | 🌱 Lifelong Learner  
-       📍 Hyderabad, India | 🧑‍💻 Developer Program Member
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;DSA+and+Open+Source+Learner;Learning+HTML%2C+CSS%2C+JavaScript+%26+PHP)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Aspiring+Full+Stack+Developer;DSA+%26+Open+Source+Learner;Learning+HTML%2C+CSS%2C+JS+%26+PHP" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🔍 About Me
 
-🎓 I'm a 3rd-year B.Tech CSE (Data Science) student at **Sreyas Institute of Engineering and Technology**  
-🧠 Strong interest in **full stack development**, **data structures**, and building practical solutions to real-world problems  
-💬 Currently improving my problem-solving skills through **Smart Interviews DSA**  
-🛠️ Actively building real-time applications with a focus on agriculture, social impact, and user experience
+🎓 3rd-year B.Tech CSE (Data Science) student at **Sreyas Institute of Engineering and Technology**  
+💡 Passionate about building real-world applications using web technologies  
+🌱 Currently exploring **Full Stack Web Development**, **DSA**, and **Open Source Contributions**  
+💬 Always excited to learn, collaborate, and contribute to impactful tech solutions
 
 ---
 
-## 💼 Projects
+## 📚 Academic & Personal Projects
 
-- **🌾 AgroFarms – Full Stack Agricultural Platform**  
-  A PHP-based full stack application that connects farmers and consumers. It features a clean UI built with **HTML, CSS, and JS**, allowing for direct and transparent produce transactions.
+- **🌿 AgroFarms – Smart Agricultural Platform**  
+  A full-stack web platform using HTML, CSS, JS, and PHP that connects farmers directly with consumers for transparent transactions.
 
 - **📘 Smart Interview DSA Solutions**  
-  A growing repository of Python-based solutions to challenges from the **Smart Interviews Primary** track, covering a wide range of Data Structures and Algorithms.
+  A Python-based collection of solutions from the Smart Interviews Primary track to strengthen Data Structures & Algorithms understanding.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Languages
-- Python, HTML, CSS, JavaScript, SQL
+### 💻 Programming Languages
+- Python · HTML · CSS · JavaScript · PHP · SQL
 
-### 🧱 Frameworks & Backend
-- PHP (Core), Bootstrap (UI)
+### ⚙️ Frameworks & Libraries
+- Bootstrap · jQuery *(learning)*
 
-### 🧰 Tools & Platforms
-- VS Code, Git, GitHub, XAMPP, Notion
+### 🧰 Developer Tools
+- VS Code · Git · GitHub · XAMPP · Notion
 
 ---
 
-## 📬 Connect With Me
+## 🌐 Let's Connect
 
 - 📧 Email: [shourya.dhatrika7@gmail.com](mailto:shourya.dhatrika7@gmail.com)  
-- 🔗 LinkedIn: [shourya-dhatrika-27a8122ba](https://www.linkedin.com/in/shourya-dhatrika-27a8122ba)  
-- 📸 Instagram: [@shaurya_.x](https://instagram.com/shaurya_.x)
+- 🔗 LinkedIn: [linkedin.com/in/shourya-dhatrika-27a8122ba](https://www.linkedin.com/in/shourya-dhatrika-27a8122ba)  
+- 📸 Instagram: [@shaurya_.x](https://www.instagram.com/shaurya_.x)
 
 ---
 
-## 📌 Repositories
+## 📌 Pinned Repositories
 
 - [`Smart_interview_primary`](https://github.com/Shouryadhatrika/Smart_interview_primary)  
-  DSA solutions written in Python to strengthen foundational concepts.
+  DSA problems and Python solutions from the Smart Interviews Primary course.
 
 - [`ARGO_FARMS`](https://github.com/Shouryadhatrika/ARGO_FARMS)  
-  A full-stack agricultural web app connecting farmers and consumers with real-time UI.
+  Full-stack agricultural platform enabling real-time direct interaction between farmers and buyers.
 
 ---
 
-📊 **115 contributions** in the last year — always building, learning, and contributing!
+📈 **115+ contributions** in the last year — continuously learning, building, and contributing!
