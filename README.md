@@ -10,7 +10,7 @@
 
 ## 🔍 About Me
 
-🎓 3rd-year B.Tech CSE (Data Science) student at **Sreyas Institute of Engineering and Technology**  
+🎓 4th-year B.Tech CSE (Data Science) student at **Sreyas Institute of Engineering and Technology**  
 💡 Interested in building scalable web solutions and solving real-world problems  
 🌱 Currently exploring **Front-End (HTML, CSS, JavaScript)** and **Back-End (PHP, MySQL)**  
 💬 Passionate about open source, collaboration, and technical innovation
